@@ -10,6 +10,7 @@ except: #最初の1回目の場合
     print('新規作成')
 while 0 != flag:
     data = {}
+    #aaaaaaaaaaaaa
     a = input('問題')
     b = input('答え')
     print(a)
